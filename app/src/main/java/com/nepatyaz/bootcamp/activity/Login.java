@@ -47,6 +47,7 @@ public class Login extends AppCompatActivity {
     }
 
     private void initView() {
+        //hello world 
 
         btnLogin = findViewById(R.id.btn_login);
         btnRegister = findViewById(R.id.btn_register);

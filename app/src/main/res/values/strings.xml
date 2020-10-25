@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BootCamp</string>
+    <string name="splash_image">TODO</string>
+    <string name="splash_loading">Loading</string>
+    <string name="main_main_text">Main Activity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_btn_login">login</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_hint_username">Username</string>
+    <string name="login_text_title">LOGIN</string>
+    <string name="register_text_title">Register</string>
+    <string name="register_hint_username">User Name</string>
+    <string name="register_hint_firstname">First Name</string>
+    <string name="register_hint__lastname">Last Name</string>
+    <string name="register_hint_email">Email</string>
+    <string name="register_hint_password">Password</string>
+    <string name="register_hint_retypepass">Retype Password</string>
+    <string name="register_btn_register">register</string>
+</resources>
